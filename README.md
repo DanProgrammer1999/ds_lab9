@@ -1,5 +1,6 @@
 # ds_lab9
 
+```
 {
 	"set" : "rs0",
 	"date" : ISODate("2019-11-01T19:02:21.422Z"),
@@ -145,3 +146,4 @@
 	},
 	"operationTime" : Timestamp(1572634941, 1)
 }
+```
